@@ -52,6 +52,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+iOS/
 
 # Crashlytics generated file
 crashlytics-build.properties
